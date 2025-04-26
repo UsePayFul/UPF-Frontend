@@ -1,6 +1,6 @@
-# My App
+# UPF Frontend
 
-Welcome to **My App** – a modern web application built with **Next.js**, **React**, and **TypeScript**. This repository is designed to help you quickly set up and deploy a high-performance web app with ease.
+Welcome to **UsePayFul Frontend** – a modern web application built with **Next.js** and **TypeScript**. This repository is designed to help you quickly set up and deploy a high-performance web app with ease.
 
 ---
 
